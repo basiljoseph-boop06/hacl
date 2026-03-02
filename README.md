@@ -211,5 +211,6 @@ Ensure all environment variables are configured in Vercel dashboard.
 ---
 
 Built with ❤️ by Carelytix Team
-#   h a c l  
+#   h a c l 
+ 
  
